@@ -26,8 +26,8 @@
 ### 📈 Statistik GitHub
 
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=GilangDafa10&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=GilangDafa10&layout=compact&theme=radical)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilangDafa10&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangDafa10&layout=compact&theme=radical" />
 </p>
 
 ---

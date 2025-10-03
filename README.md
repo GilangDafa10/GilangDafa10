@@ -46,10 +46,10 @@
   <a href="mailto:gilangdafa64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/namakamu](https://www.linkedin.com/in/gilang-dafa-ardani-097423340/)">
+  <a href="https://linkedin.com/in/namakamu](https://www.linkedin.com/in/gilang-dafa-ardani-097423340/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://namakamu.dev](https://gilangdafa10.github.io/gilangpages.github.io/">
+  <a href="https://gilangdafa10.github.io/gilangpages.github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>

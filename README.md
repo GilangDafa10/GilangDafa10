@@ -4,8 +4,14 @@
   Edit bagian di bawah ini sesuai identitasmu!
 -->
 
-<h1 align="center">Hai, saya <a href="https://github.com/GilangDafa10">Gilang Dafa Ardani</a>! 👋</h1>
-<h3 align="center">Seorang Mahasiswa Informatika</h3>
+<div align="center">
+  <h1 style="color: #FFD700; font-size: 2.5em;">Hi, I'm Gilang Dafa Ardani</h1>
+  <h3 style="color: #87CEEB; font-size: 1.5em;">A Web Developer & Informatics Student</h3>
+</div>
+
+<p align="center">
+  I'm an Informatics student with a strong passion for <strong>web development</strong> and <strong>software engineering</strong>. With a solid foundation in JavaScript, Vue.js, React, and TypeScript, combined with comprehensive knowledge of frontend and backend technologies, I'm committed to building elegant and efficient web solutions. I have hands-on experience working with modern frameworks like React and Vue.js, along with backend technologies such as Node.js and Laravel. My collaborative nature allows me to seamlessly integrate with teams, contributing not only technical expertise but also fostering a positive team environment where every member thrives.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6A9955&center=true&vCenter=true&width=600&lines=Suka+membangun+hal+yang+berarti;Mengotak-atik+kode+setiap+hari;Belajar+hal+baru+setiap+minggu" alt="Typing SVG" />
@@ -35,12 +41,16 @@
 
 ---
 
-### 📈 Statistik GitHub
+### � Statistik GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilangDafa10&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangDafa10&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=GilangDafa10&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&line_height=27" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangDafa10&layout=compact&theme=github_dark&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GilangDafa10&theme=github-dark&hide_border=true" />
+</div>
 
 ---
 

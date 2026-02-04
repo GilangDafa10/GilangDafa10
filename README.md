@@ -1,6 +1,6 @@
-<!-- 
-  Halo! 👋  
-  Ini adalah README profil GitHub pribadimu. 
+<!--
+  Halo! 👋
+  Ini adalah README profil GitHub pribadimu.
   Edit bagian di bawah ini sesuai identitasmu!
 -->
 
@@ -13,13 +13,25 @@
 
 ---
 
-### 🛠️ Teknologi & Tools yang Saya Gunakan
+### 🛠️ Core Tech Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,php,laravel,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,vue,react,tailwind" />
 </p>
 
-> *“Saya percaya bahwa kode yang baik bukan hanya berfungsi, tapi juga mudah dibaca dan dipelihara.”*
+### 🛠️ Other Tech Stacks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,php,laravel,java,mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+> _“Saya percaya bahwa kode yang baik bukan hanya berfungsi, tapi juga mudah dibaca dan dipelihara.”_
 
 ---
 
@@ -29,14 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilangDafa10&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangDafa10&layout=compact&theme=radical" />
 </p>
-
----
-
-### 🌱 Sedang Belajar
-
-- 🌐 Web Development
-- 📱 Mobile Apps
-
 
 ---
 

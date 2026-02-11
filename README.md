@@ -41,12 +41,14 @@
 
 ---
 
-### � Statistik GitHub
+### 📊 GitHub Insights
 
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=GilangDafa10&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&line_height=27" />
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangDafa10&layout=compact&theme=github_dark&langs_count=8" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GilangDafa10&theme=github_dark" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GilangDafa10&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GilangDafa10&theme=github_dark" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GilangDafa10&theme=github-dark&hide_border=true" />
